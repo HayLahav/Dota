@@ -90,7 +90,7 @@ This project uses the **DOTA v1.0 / v1.5 / v2.0** dataset:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/DOTA-VLM.git
+git clone https://github.com/HayLahav/DOTA-VLM.git
 cd DOTA-VLM
 ```
 
